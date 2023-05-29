@@ -1,0 +1,1 @@
+i need to install .env and use it to setup typeorm lole
